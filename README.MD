@@ -49,3 +49,36 @@ cls - command is used to clear the terminal screen, providing a clean workspace 
 clear - command is used to clear the terminal screen, providing a clean workspace for entering new commands. (Note: you must be using Git bash or Linux Terminal on this )
 ```
 
+<Br>
+
+# How to clone from git Repository
+
+| Plugin  | README                                                    |
+| ------- | --------------------------------------------------------- |
+| Note: 1 | For this to work you must first have a working repository |
+| Note: 2 | Be sure that you are on the Desktop directory             |
+
+
+<br>
+
+```
+Copy the git URL
+```
+
+![alt text](./image/clone-1.png)
+
+
+```
+Paste the git url on a terminal NOTE: Use CMD 
+```
+
+![alt text](./image/clone-2.png)
+
+```
+The command should go something like this
+```
+
+```
+git clone https://github.com/thelastjeremiah/gitLessons.git
+```
+
