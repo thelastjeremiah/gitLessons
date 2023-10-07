@@ -20,40 +20,22 @@
 
 
 
+|  #      | Description                                                                                                                                                           |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| mkdir   | to create a folder using only command lines                                                                                                                           |
+| dir     |  is a command used to list the files and directories in the current directory. (Note: you must be using CMD on this)                                                  |
+| ls      | is a command used to list the files and directories in the current directory. (Note: you must be using GitBash or Linux termnial on this)                             |
+| cd .    | is used to change the current directory to its own current directory                                                                                                  | 
+| cd ..   | is used to navigate up one directory level from the current directory.                                                                                                | 
+| cls     | command is used to clear the terminal screen, providing a clean workspace for entering new commands. (Note: you must be using CMD on this )                           | 
+| clear   | command is used to clear the terminal screen, providing a clean workspace for entering new commands. (Note: you must be using Git bash or Linux Terminal on this )    | 
 
-```
-mkdir - to create a folder using only command lines
-```
-
-```
-dir - is a command used to list the files and directories in the current directory. (Note: you must be using CMD on this)
-```
-
-```
-ls  - is a command used to list the files and directories in the current directory. (Note: you must be using GitBash or Linux termnial on this)
-```
-
-```
-cd . - is used to change the current directory to its own current directory
-```
-
-```
-cd .. - is used to navigate up one directory level from the current directory.
-```
-
-```
-cls - command is used to clear the terminal screen, providing a clean workspace for entering new commands. (Note: you must be using CMD on this )
-```
-
-```
-clear - command is used to clear the terminal screen, providing a clean workspace for entering new commands. (Note: you must be using Git bash or Linux Terminal on this )
-```
 
 <Br>
 
 # How to clone from git Repository
 
-| Plugin  | README                                                    |
+|  #      | Description                                               |
 | ------- | --------------------------------------------------------- |
 | Note: 1 | For this to work you must first have a working repository |
 | Note: 2 | Be sure that you are on the Desktop directory             |
